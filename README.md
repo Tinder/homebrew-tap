@@ -1,12 +1,14 @@
-# Tinder's Homebrew Formulae
+# Public Homebrew Formulae
 
-## brew tap
+__for open source and publicly available software only__
+
+## Tap
 
 ```
 brew tap Tinder/tap 
 ```
 
-## Available Formulae
+## Formulae
 
 ### GitQuery
 
