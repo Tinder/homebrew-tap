@@ -4,7 +4,7 @@ class GitQuery < Formula
   url "https://github.com/Tinder/GitQuery/archive/3.0.0.tar.gz"
   sha256 "bda78460f543219fd07fa9adcb01d0f8d6c029354e7fdc0c78e58883ca8a441d"
   
-  depends_on :java => "1.8"
+  depends_on "openjdk@8"
 
   def install
     system "./gradlew", "installDist"
