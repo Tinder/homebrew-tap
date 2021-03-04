@@ -1,8 +1,8 @@
 class GitQuery < Formula
   desc "Query, Copy and Sync files from a remote Git repo"
   homepage "https://github.com/Tinder/GitQuery"
-  url "https://github.com/Tinder/GitQuery/archive/3.0.6.tar.gz"
-  sha256 "992286c54530c941ccb1c85a7fdff8cb56af310f8915aa995d0069116bf1b382"
+  url "https://github.com/Tinder/GitQuery/archive/3.0.7.tar.gz"
+  sha256 "2c49c313046a27c5c4e8c9076dce11e29ad856846915d4cb6aaf0ee8208aee5f"
   
   depends_on "openjdk@8"
 
