@@ -14,10 +14,16 @@ brew tap Tinder/tap
 
 https://github.com/Tinder/GitQuery
 
+To install:
 ```
 brew install gitquery
 ```
 
+or, to upgrade:
+
+```
+brew upgrade tinder/tap/gitquery
+```
 ## Homebrew Documentation
 
 `man brew`, `brew help` or visit the [Homebrew Documentation](https://docs.brew.sh) online.
